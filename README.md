@@ -20,3 +20,11 @@ With JetBrains MPS, you can define custom editors for any new language and make 
 [The MPS Language Workbench Volume I](https://www.amazon.com/MPS-Language-Workbench-Programming-System/dp/153053335X/ref=sr_1_1?ie=UTF8&qid=1505363569&sr=8-1&keywords=jetbrains+MPS):  a simple introduction to the JetBrains MPS language workbench and a complete reference manual
 
 [The MPS Language Workbench Volume II](https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=sr_1_2?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS): how to customize the MPS platform to better integrate it with the needs of your languages
+
+### [Xtext](https://eclipse.org/Xtext/)
+
+Xtext is a framework for development of programming languages and domain-specific languages. With Xtext you define your language using a powerful grammar language. As a result you get a full infrastructure, including parser, linker, typechecker, compiler as well as editing support for Eclipse, IntelliJ IDEA and your favorite web browser.
+
+*Learning materials*:
+
+[Implementing Domain-Specific Languages with Xtext and Xtend](https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=sr_1_1?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
