@@ -11,6 +11,7 @@ A powerful parser generator for reading, processing, executing, or translating s
 
 [The Definitive ANTLR 4 Reference](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=la_B001JS3O0U_1_2?s=books&ie=UTF8&qid=1503464537&sr=1-2): Build your own languages with ANTLR v4
 
+
 ### [MPS](https://www.jetbrains.com/mps/) (Meta Programming System)
 
 With JetBrains MPS, you can define custom editors for any new language and make using these DSLs simpler. Even domain experts, who are not familiar with traditional programming, can easily work in MPS with domain-specific languages designed around their domain-specific terminology.
@@ -21,13 +22,25 @@ With JetBrains MPS, you can define custom editors for any new language and make 
 
 [The MPS Language Workbench Volume II](https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=sr_1_2?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS): how to customize the MPS platform to better integrate it with the needs of your languages
 
+
 ### [Xtext](https://eclipse.org/Xtext/)
 
-Xtext is a framework for development of programming languages and domain-specific languages. With Xtext you define your language using a powerful grammar language. As a result you get a full infrastructure, including parser, linker, typechecker, compiler as well as editing support for Eclipse, IntelliJ IDEA and your favorite web browser.
+Xtext is a framework by Eclipse for development of programming languages and domain-specific languages. With Xtext you define your language using a powerful grammar language. As a result you get a full infrastructure, including parser, linker, typechecker, compiler as well as editing support for Eclipse, IntelliJ IDEA and your favorite web browser.
 
 *Learning materials*:
 
 [Implementing Domain-Specific Languages with Xtext and Xtend](https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=sr_1_1?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
+
+
+
+### [Sirius](https://eclipse.org/Xtext/)
+
+Sirius is an Eclipse project which allows you to easily create your own graphical modeling workbench by leveraging the Eclipse Modeling technologies, including EMF and GMF.
+
+*Learning materials*:
+
+[Official Guide](http://www.eclipse.org/sirius/getstarted.html): provides an introduction to Sirius and a series of tutorials to get started building your own graphical modeling tool
+
 
 
 ### [Flex](https://github.com/westes/flex) and [Bison](https://www.gnu.org/software/bison/)
