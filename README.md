@@ -11,6 +11,9 @@ A powerful parser generator for reading, processing, executing, or translating s
 
 [The Definitive ANTLR 4 Reference](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=la_B001JS3O0U_1_2?s=books&ie=UTF8&qid=1503464537&sr=1-2): Build your own languages with ANTLR v4
 
+[ANTLR Mega Tuotrial](https://tomassetti.me/antlr-mega-tutorial/): A comprehensive tutorial that explains all you need to know to understand language design fundamentals and use ANTLR effectively. There is PDF version. All free.
+
+
 
 ### [MPS](https://www.jetbrains.com/mps/) (Meta Programming System)
 
