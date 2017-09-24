@@ -65,3 +65,8 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 [DSL Engineering](https://www.amazon.com/DSL-Engineering-Designing-Implementing-Domain-Specific/dp/1481218581/ref=sr_1_3?ie=UTF8&qid=1505967419&sr=8-3&keywords=domain+specific+languages) : Designing, Implementing and Using Domain-Specific Languages
 
 The definitive resource on domain-specific languages: based on years of real-world experience, relying on modern language workbenches and full of examples. Domain-Specific Languages are programming languages specialized for a particular application domain.
+
+
+[Language Implementation Patterns](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=la_B001JS3O0U_1_1?s=books&ie=UTF8&qid=1503464537&sr=1-1): Create Your Own Domain-Specific and General Programming Languages. 
+
+Written by the author of ANTLR, and it is also the tool used in the book, but the general concepts apply regardless of what you use.
