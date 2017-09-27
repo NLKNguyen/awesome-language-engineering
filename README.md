@@ -70,3 +70,7 @@ The definitive resource on domain-specific languages: based on years of real-wor
 [Language Implementation Patterns](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=la_B001JS3O0U_1_1?s=books&ie=UTF8&qid=1503464537&sr=1-1): Create Your Own Domain-Specific and General Programming Languages. 
 
 Written by the author of ANTLR, and it is also the tool used in the book, but the general concepts apply regardless of what you use.
+
+[Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/) 
+
+A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
