@@ -58,6 +58,12 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 
 [Lex & Yacc](https://www.amazon.com/lex-yacc-Doug-Brown/dp/1565920007/ref=sr_1_1?ie=UTF8&qid=1505766519&sr=8-1&keywords=lex+and+yacc): shows you how to use two Unix utilities, lex andyacc, in program development. These tools help programmers build compilers and interpreters, but they also have a wider range of applications.
 
+
+### [Kaitai Struct](http://kaitai.io/#quick-start) 
+
+A parser generator for reading binary data. This is a declarative language for specifying data structure of binary data in order to generate parser (in multiple target languages) that handles reading binary file formats, network stream packet formats, etc. It comes with a compiler, an IDE, a visualizer, and library of format specs.
+
+
 -----
 
 # More Books
