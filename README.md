@@ -9,7 +9,7 @@ As the title suggested, this focuses on language engineering purposes in order t
 
 # Tools
 
-Just like other domains, knowing the available tools that are tried-and-true will  
+Just like other domains, knowing the available tools that are tried-and-true will save you a lot of time and efforts. Furthermore, you will also learn the emerging techniques that are adopted in different tools which make the skills more transferable.
 
 ### [ANTLR](http://www.antlr.org/) (ANother Tool for Language Recognition) 
 A powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
