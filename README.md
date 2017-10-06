@@ -14,13 +14,19 @@ Just like other domains, knowing the available tools that are tried-and-true wil
 ### [ANTLR](http://www.antlr.org/) (ANother Tool for Language Recognition) 
 A powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
 
+Target Languages: Java, C#, Python, JavaScript, Go, C++, Swift ([see update](https://github.com/antlr/antlr4/blob/master/doc/targets.md))
+
 *Learning materials*:
 
-* [Language Implementation Patterns](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=la_B001JS3O0U_1_1?s=books&ie=UTF8&qid=1503464537&sr=1-1): Create Your Own Domain-Specific and General Programming Languages 
+* Book: [Language Implementation Patterns](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=la_B001JS3O0U_1_1?s=books&ie=UTF8&qid=1503464537&sr=1-1): Create Your Own Domain-Specific and General Programming Languages 
 
-* [The Definitive ANTLR 4 Reference](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=la_B001JS3O0U_1_2?s=books&ie=UTF8&qid=1503464537&sr=1-2): Build your own languages with ANTLR v4
+* Book: [The Definitive ANTLR 4 Reference](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=la_B001JS3O0U_1_2?s=books&ie=UTF8&qid=1503464537&sr=1-2): Build your own languages with ANTLR v4
 
-* [ANTLR Mega Tuotrial](https://tomassetti.me/antlr-mega-tutorial/): A comprehensive tutorial that explains all you need to know to understand language design fundamentals and use ANTLR effectively. There is PDF version. All free.
+* Doc: [Supported Documentation](https://github.com/antlr/antlr4/blob/master/doc/index.md) for the above books
+
+* Web: [ANTLR Mega Tuotrial](https://tomassetti.me/antlr-mega-tutorial/): A comprehensive tutorial that explains all you need to know to understand language design fundamentals and use ANTLR effectively. There is PDF version. All free.
+
+* Video: [Terence Parr - ANTLR4](https://vimeo.com/59285751): Dr. Terence Parr introduces the latest (and last) revision of his parser generator, ANTLR
 
 
 
