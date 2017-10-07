@@ -5,7 +5,7 @@ Whether you want to create a text-processor, a parser, a language application, a
 
 Better yet, help others finding their way by contributing to this page with the resources that you think useful. 
 
-As the title suggested, this focuses on language engineering purposes in order to build things NOW. However, theoretical  research papers are more than welcome.
+As the title suggested, this focuses on language engineering purposes in order to build things NOW. Still, language design theories, research papers, and opinionated blog posts are also welcome.
 
 # Tools
 
@@ -36,9 +36,9 @@ With JetBrains MPS, you can define custom editors for any new language and make 
 
 *Learning materials*:
 
-* [The MPS Language Workbench Volume I](https://www.amazon.com/MPS-Language-Workbench-Programming-System/dp/153053335X/ref=sr_1_1?ie=UTF8&qid=1505363569&sr=8-1&keywords=jetbrains+MPS):  a simple introduction to the JetBrains MPS language workbench and a complete reference manual
+* Book: [The MPS Language Workbench Volume I](https://www.amazon.com/MPS-Language-Workbench-Programming-System/dp/153053335X/ref=sr_1_1?ie=UTF8&qid=1505363569&sr=8-1&keywords=jetbrains+MPS):  a simple introduction to the JetBrains MPS language workbench and a complete reference manual
 
-* [The MPS Language Workbench Volume II](https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=sr_1_2?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS): how to customize the MPS platform to better integrate it with the needs of your languages
+* Book: [The MPS Language Workbench Volume II](https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=sr_1_2?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS): how to customize the MPS platform to better integrate it with the needs of your languages
 
 
 ### [Xtext](https://eclipse.org/Xtext/)
@@ -47,7 +47,7 @@ Xtext is a framework by Eclipse for development of programming languages and dom
 
 *Learning materials*:
 
-* [Implementing Domain-Specific Languages with Xtext and Xtend](https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=sr_1_1?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
+* Book: [Implementing Domain-Specific Languages with Xtext and Xtend](https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=sr_1_1?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
 
 
 
@@ -57,7 +57,7 @@ Sirius is an Eclipse project which allows you to easily create your own graphica
 
 *Learning materials*:
 
-* [Official Guide](http://www.eclipse.org/sirius/getstarted.html): provides an introduction to Sirius and a series of tutorials to get started building your own graphical modeling tool
+* Web: [Official Guide](http://www.eclipse.org/sirius/getstarted.html): provides an introduction to Sirius and a series of tutorials to get started building your own graphical modeling tool
 
 
 
@@ -67,11 +67,11 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 
 *Learning materials*:
 
-* [Flex & Bison Tutorial](http://aquamentus.com/flex_bison.html): this webpage is supposed to be a tutorial for complete novices needing to use Flex and Bison for some real project.
+* Web: [Flex & Bison Tutorial](http://aquamentus.com/flex_bison.html): this webpage is supposed to be a tutorial for complete novices needing to use Flex and Bison for some real project.
 
-* [Flex & Bison](https://www.amazon.com/flex-bison-Text-Processing-Tools/dp/0596155972/ref=sr_1_1?ie=UTF8&qid=1505766504&sr=8-1&keywords=flex+and+bison): explains how to use flex and bison to solve your problems quickly. This is the update from the original Lex & Yacc book described below.
+* Book: [Flex & Bison](https://www.amazon.com/flex-bison-Text-Processing-Tools/dp/0596155972/ref=sr_1_1?ie=UTF8&qid=1505766504&sr=8-1&keywords=flex+and+bison): explains how to use flex and bison to solve your problems quickly. This is the update from the original Lex & Yacc book described below.
 
-* [Lex & Yacc](https://www.amazon.com/lex-yacc-Doug-Brown/dp/1565920007/ref=sr_1_1?ie=UTF8&qid=1505766519&sr=8-1&keywords=lex+and+yacc): shows you how to use two Unix utilities, lex andyacc, in program development. These tools help programmers build compilers and interpreters, but they also have a wider range of applications.
+* Book: [Lex & Yacc](https://www.amazon.com/lex-yacc-Doug-Brown/dp/1565920007/ref=sr_1_1?ie=UTF8&qid=1505766519&sr=8-1&keywords=lex+and+yacc): shows you how to use two Unix utilities, lex and yacc, in program development. These tools help programmers build compilers and interpreters, but they also have a wider range of applications.
 
 
 ### [Kaitai Struct](http://kaitai.io/#quick-start) 
@@ -95,3 +95,11 @@ Written by the author of ANTLR, and it is also the tool used in the book, but th
 [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/) 
 
 A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
+
+-----
+
+# Blog Posts:
+
+* [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
+* [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
+* [So you want to write your own language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
