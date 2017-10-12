@@ -1,4 +1,4 @@
-# Awesome Language Engineering
+# Awesome Language Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![alan_behind](https://user-images.githubusercontent.com/4667129/31479957-bc003858-aecf-11e7-91ae-f8a1faab66da.jpg)
 > A curated list of useful resources for computer language engineering and theory
 
@@ -7,6 +7,7 @@ Whether you want to create a text-processor, a parser, a language application, a
 Better yet, help others finding their way by contributing to this page with the resources that you think useful. 
 
 As the title suggested, this focuses on language engineering purposes in order to build things NOW. Still, language design theories, research papers, and opinionated blog posts are also welcome.
+
 
 # Tools
 
@@ -121,3 +122,10 @@ A classic compiler book that is known to professors, students, and developers wo
 * [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
 * [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
 * [So you want to write your own language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
+
+
+# License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Nikyle Nguyen](https://github.com/NLKNguyen/) has waived all copyright and related or neighboring rights to this work.
