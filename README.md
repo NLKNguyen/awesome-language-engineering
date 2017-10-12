@@ -1,4 +1,5 @@
 # Awesome Language Engineering
+![alan_behind](https://user-images.githubusercontent.com/4667129/31479957-bc003858-aecf-11e7-91ae-f8a1faab66da.jpg)
 > A curated list of useful resources for computer language engineering and theory
 
 Whether you want to create a text-processor, a parser, a language application, a DSL (Domain Specific Language), or a full-fledged programming language with compiler and tooling, this page serves as a directory map to point you to the right direction.
@@ -86,8 +87,6 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 A parser generator for reading binary data. This is a declarative language for specifying data structure of binary data in order to generate parser (in multiple target languages) that handles reading binary file formats, network stream packet formats, etc. It comes with a compiler, an IDE, a visualizer, and library of format specs.
 
 
------
-
 # More Resources
 
 ## Books
@@ -116,8 +115,9 @@ Written by the author of ANTLR, and it is also the tool used in the book, but th
 A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
 
 
-## Blog Posts:
+## Web
 
+* [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 * [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
 * [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
 * [So you want to write your own language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
