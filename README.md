@@ -16,7 +16,7 @@ Just like other domains, knowing the available tools that are tried-and-true wil
 ### [ANTLR](http://www.antlr.org/) (ANother Tool for Language Recognition) 
 A powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
 
-Target Languages: Java, C#, Python, JavaScript, Go, C++, Swift ([see update](https://github.com/antlr/antlr4/blob/master/doc/targets.md))
+Describe language lexical and grammar specification in a declarative file format `.g4` (Lex/Yacc format alike), and the generator can create a parser for the following target languages: Java, C#, Python, JavaScript, Go, C++, Swift ([see update](https://github.com/antlr/antlr4/blob/master/doc/targets.md))
 
 *Learning materials*:
 
@@ -87,6 +87,7 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 
 A parser generator for reading binary data. This is a declarative language for specifying data structure of binary data in order to generate parser (in multiple target languages) that handles reading binary file formats, network stream packet formats, etc. It comes with a compiler, an IDE, a visualizer, and library of format specs.
 
+Describe binary structure specification in a declarative file format `.ksy` (YAML alike), and the generator can create a parser for the following target languages: C++/STL, C#, Java, JavaScript, Perl, PHP, Python, Ruby ([see update](http://kaitai.io/))
 
 # More Resources
 
