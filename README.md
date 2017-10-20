@@ -89,6 +89,28 @@ A parser generator for reading binary data. This is a declarative language for s
 
 Describe binary structure specification in a declarative file format `.ksy` (YAML alike), and the generator can create a parser for the following target languages: C++/STL, C#, Java, JavaScript, Perl, PHP, Python, Ruby ([see update](http://kaitai.io/))
 
+### [Sed](https://www.gnu.org/software/sed/) and [Awk](https://www.gnu.org/software/gawk/)
+
+Sed and Awk are two text processing programs that are mainstays of the UNIX programmer's toolbox. 
+
+- Sed is a stream editor (non-interactive) to do common text editing jobs like search/extract/replace/insert.
+- Awk is a whole programming language ideal for handling data extraction, reporting, and data-reformatting jobs.
+
+Both are command-line interface programs that can be used independently or together nicely for many text processing purposes. They are great for recognizing and extracting information from text input. For simple language recognition tasks, perhaps they are the best tools for the job with the least effort due to their simplicity and targeted use cases. Sed and Awk are part of most, if not all, Linux/Unix/macOS distributions. They are available to download for Windows as well.
+
+*Learning materials*:
+
+* Doc:
+    * [Sed official manual](https://www.gnu.org/software/sed/manual/)
+    * [Awk official manual](https://www.gnu.org/software/gawk/manual/)
+* Web:
+    * [Sed tutorial](http://www.grymoire.com/Unix/Sed.html)
+    * [Awk tutorial](http://www.grymoire.com/Unix/Awk.html)
+* Course:
+    * [Lynda.com Sed Essential Training](https://www.lynda.com/SED-tutorials/SED-Essential-Training/359472-2.html)
+    * [Lynda.com Awk Essential Training](https://www.lynda.com/Linux-tutorials/AWK-Essential-Training/162719-2.html)
+    
+
 # More Resources
 
 ## Books
