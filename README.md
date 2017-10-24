@@ -110,7 +110,20 @@ Both are command-line interface programs that can be used independently or toget
     * [Lynda.com Sed Essential Training](https://www.lynda.com/SED-tutorials/SED-Essential-Training/359472-2.html)
     * [Lynda.com Awk Essential Training](https://www.lynda.com/Linux-tutorials/AWK-Essential-Training/162719-2.html)
     
+* Book:
 
+    * [Sed & Awk](https://www.amazon.com/sed-awk-Dale-Dougherty/dp/1565922255/ref=sr_1_2?ie=UTF8&qid=1508814582&sr=8-2&keywords=sed)
+        
+        <img src="http://ecx.images-amazon.com/images/I/51zGTApa8%2BL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+        
+    * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X/ref=sr_1_4?ie=UTF8&qid=1508814604&sr=8-4&keywords=awk)
+
+        <img src="http://ecx.images-amazon.com/images/I/41WxQ-gPjWL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+
+    * [Effective awk Programming](https://www.amazon.com/Effective-awk-Programming-Universal-Processing-ebook/dp/B00U8232XM/ref=sr_1_1?ie=UTF8&qid=1508814604&sr=8-1&keywords=awk)
+
+        <img src="http://ecx.images-amazon.com/images/I/51x1OBaPbVL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+        
 # More Resources
 
 ## Books
