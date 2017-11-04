@@ -4,10 +4,7 @@
 
 Whether you want to create a text-processor, a parser, a language application, a DSL (Domain Specific Language), or a full-fledged programming language with compiler and tooling, this page serves as a directory map to point you to the right direction.
 
-Better yet, help others finding their way by contributing to this page with the resources that you think useful. 
-
-As the title suggested, this focuses on language engineering purposes in order to build things NOW. Still, language design theories, research papers, and opinionated blog posts are also welcome.
-
+Better yet, help others finding their way by contributing to this page with the resources that you think useful.
 
 # Tools
 
@@ -106,6 +103,9 @@ Both are command-line interface programs that can be used independently or toget
 * Web:
     * [Sed tutorial](http://www.grymoire.com/Unix/Sed.html)
     * [Awk tutorial](http://www.grymoire.com/Unix/Awk.html)
+    * [Handy Sed one-liners](http://www.pement.org/sed/sed1line.txt)    
+    * [Handy Awk one-liners](http://pement.org/awk/awk1line.txt)
+    * [Awk by Example](https://www.ibm.com/developerworks/library/l-awk1/)
 * Course:
     * [Lynda.com Sed Essential Training](https://www.lynda.com/SED-tutorials/SED-Essential-Training/359472-2.html)
     * [Lynda.com Awk Essential Training](https://www.lynda.com/Linux-tutorials/AWK-Essential-Training/162719-2.html)
