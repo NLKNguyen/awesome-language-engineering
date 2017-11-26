@@ -1,5 +1,5 @@
 # Awesome Language Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![alan_behind](https://user-images.githubusercontent.com/4667129/31479957-bc003858-aecf-11e7-91ae-f8a1faab66da.jpg)
+[![alan_behind](https://user-images.githubusercontent.com/4667129/31479957-bc003858-aecf-11e7-91ae-f8a1faab66da.jpg)](https://github.com/NLKNguyen/awesome-language-engineering)
 > A curated list of useful resources for computer language engineering and theory
 
 Whether you want to create a text-processor, a parser, a language application, a DSL (Domain Specific Language), or a full-fledged programming language with compiler and tooling, this page serves as a directory map to point you to the right direction.
