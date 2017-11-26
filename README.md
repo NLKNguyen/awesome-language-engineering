@@ -6,6 +6,13 @@ Whether you want to create a text-processor, a parser, a language application, a
 
 Better yet, help others finding their way by contributing to this page with the resources that you think useful.
 
+## Contents
+
+- [Tools](#tools)
+- [Books](#books)
+- [Articles](#articles)
+
+
 # Tools
 
 Just like other domains, knowing the available tools that are tried-and-true will save you a lot of time and efforts. Furthermore, you will also learn the emerging techniques that are adopted in different tools which make the skills more transferable.
@@ -126,7 +133,7 @@ Both are command-line interface programs that can be used independently or toget
         
 # More Resources
 
-## Books
+# Books
 
 ### **[DSL Engineering](https://www.amazon.com/DSL-Engineering-Designing-Implementing-Domain-Specific/dp/1481218581/ref=sr_1_3?ie=UTF8&qid=1505967419&sr=8-3&keywords=domain+specific+languages)**
 
@@ -152,12 +159,28 @@ Written by the author of ANTLR, and it is also the tool used in the book, but th
 A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
 
 
-## Web
+# Articles
 
-* [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness)
-* [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
-* [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
+**General:**
+
+* [Five Questions About Language Design](http://www.paulgraham.com/langdes.html)
+* [Designing the next programming language? Understand how people learn!](http://www.theenterprisearchitect.eu/blog/2013/02/14/designing-the-next-programming-language-understand-how-people-learn/)
 * [So you want to write your own language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
+* [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
+* [Turing Completeness](https://en.wikipedia.org/wiki/Turing_completeness)
+
+
+**Paradigms:**
+
+* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
+
+
+**Type Systems**
+
+* [Type Systems](http://lucacardelli.name/Papers/TypeSystems.pdf)
+* [Static vs. Dynamic Type Checking](https://thesocietea.org/2015/11/programming-concepts-static-vs-dynamic-type-checking/)
+
 
 
 # License
