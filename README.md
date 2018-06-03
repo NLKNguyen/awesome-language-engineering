@@ -131,7 +131,7 @@ Both are command-line interface programs that can be used independently or toget
 
         <a href="https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/ref=as_li_ss_il?s=books&ie=UTF8&qid=1527984931&sr=1-1&keywords=effective+awk+programming+language&linkCode=li3&tag=mynn11481-20&linkId=2110bc834ad5c67b30857d3597a3f8fe" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1491904615&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1491904615" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
         
-# More Resources
+# Fundamentals
 
 # Books
 
@@ -158,6 +158,11 @@ Written by the author of ANTLR, and it is also the tool used in the book, but th
 
 A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
 
+### **[Writing An Interpreter In Go](https://amzn.to/2JcBvLt)** 
+
+<a href="https://www.amazon.com/dp/300055808X//ref=as_li_ss_il?coliid=I3HPPYJ76KKH81&colid=28DF35XRZA3V&psc=0&ref_=lv_ov_lig_dp_it&linkCode=li3&tag=mynn11481-20&linkId=4a752f54ba3aeebe83b7e9fb27e8263c" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=300055808X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=300055808X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Learning how to use a C-like language such as Go to create a complete programming language by applying fundamental concepts of lexer, parser, AST (Abstract Syntax Tree), Pratt technique, and recursive descent parser. This also shows you how to implement a REPL (interactive language shell).
 
 # Articles
 
