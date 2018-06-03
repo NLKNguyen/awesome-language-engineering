@@ -24,9 +24,9 @@ Describe language lexical and grammar specification in a declarative file format
 
 *Learning materials*:
 
-* Book: [The Definitive ANTLR 4 Reference](https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=la_B001JS3O0U_1_2?s=books&ie=UTF8&qid=1503464537&sr=1-2): Build your own languages with ANTLR v4
+* Book: [The Definitive ANTLR 4 Reference](https://amzn.to/2srUkns): Build your own languages with ANTLR v4
 
-    <img src="http://ecx.images-amazon.com/images/I/81Dfq1fw4QL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/Definitive-ANTLR-4-Reference/dp/1934356999/ref=as_li_ss_il?ie=UTF8&qid=1527979678&sr=8-1&keywords=The+Definitive+ANTLR+4+Reference&linkCode=li3&tag=mynn11481-20&linkId=faa51b40044cf23c6dc907495556b43f" target="_blank"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356999&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" width="200px"></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1934356999" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Doc: [Supported Documentation](https://github.com/antlr/antlr4/blob/master/doc/index.md) for the above books
 
@@ -42,13 +42,13 @@ With JetBrains MPS, you can define custom editors for any new language and make 
 
 *Learning materials*:
 
-* Book: [The MPS Language Workbench Volume I](https://www.amazon.com/MPS-Language-Workbench-Programming-System/dp/153053335X/ref=sr_1_1?ie=UTF8&qid=1505363569&sr=8-1&keywords=jetbrains+MPS):  a simple introduction to the JetBrains MPS language workbench and a complete reference manual
+* Book: [The MPS Language Workbench Volume I](https://amzn.to/2JmX8fr):  a simple introduction to the JetBrains MPS language workbench and a complete reference manual
 
-    <img src="http://ecx.images-amazon.com/images/I/61nWg7s%2BBML._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/MPS-Language-Workbench-Programming-System/dp/153053335X/ref=as_li_ss_il?ie=UTF8&qid=1505363569&sr=8-1&keywords=jetbrains+MPS&linkCode=li3&tag=mynn11481-20&linkId=728463da56cd2c9871036f31e2e65908" target="_blank"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=153053335X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=153053335X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     
-* Book: [The MPS Language Workbench Volume II](https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=sr_1_2?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS): how to customize the MPS platform to better integrate it with the needs of your languages
+* Book: [The MPS Language Workbench Volume II](https://amzn.to/2JbNM2F): how to customize the MPS platform to better integrate it with the needs of your languages
 
-    <img src="http://ecx.images-amazon.com/images/I/51prOmwgvJL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/MPS-Language-Workbench-II-Programming/dp/1532805373/ref=as_li_ss_il?ie=UTF8&qid=1505363569&sr=8-2&keywords=jetbrains+MPS&linkCode=li3&tag=mynn11481-20&linkId=59bc0aae249a79c5a3f5e0dd58a2e5c1" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1532805373&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1532805373" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### [Xtext](https://eclipse.org/Xtext/)
 
@@ -56,9 +56,9 @@ Xtext is a framework by Eclipse for development of programming languages and dom
 
 *Learning materials*:
 
-* Book: [Implementing Domain-Specific Languages with Xtext and Xtend](https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=sr_1_1?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
+* Book: [Implementing Domain-Specific Languages with Xtext and Xtend](https://amzn.to/2JlatEW): learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices
 
-    <img src="http://ecx.images-amazon.com/images/I/51ZNzHPhaDL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/Implementing-Domain-Specific-Languages-Xtext-Xtend-ebook/dp/B01CSLI6HM/ref=as_li_ss_il?ie=UTF8&qid=1505686814&sr=8-1&keywords=xtext&linkCode=li3&tag=mynn11481-20&linkId=9d12bf285266213ea26f6fa068ff4b08" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01CSLI6HM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=B01CSLI6HM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 ### [Sirius](https://eclipse.org/Xtext/)
@@ -79,13 +79,13 @@ Flex and Bison are aging unix utilities that help you write very fast parsers fo
 
 * Web: [Flex & Bison Tutorial](http://aquamentus.com/flex_bison.html): this webpage is supposed to be a tutorial for complete novices needing to use Flex and Bison for some real project.
 
-* Book: [Flex & Bison](https://www.amazon.com/flex-bison-Text-Processing-Tools/dp/0596155972/ref=sr_1_1?ie=UTF8&qid=1505766504&sr=8-1&keywords=flex+and+bison): explains how to use flex and bison to solve your problems quickly. This is the update from the original Lex & Yacc book described below.
+* Book: [Flex & Bison](https://amzn.to/2LQrOnw): explains how to use flex and bison to solve your problems quickly. This is the update from the original Lex & Yacc book described below.
 
-    <img src="http://ecx.images-amazon.com/images/I/51fLgJUN2bL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/flex-bison-Text-Processing-Tools/dp/0596155972/ref=as_li_ss_il?ie=UTF8&qid=1505766504&sr=8-1&keywords=flex+and+bison&linkCode=li3&tag=mynn11481-20&linkId=242d418d7209a3cf975792c778a7e176" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0596155972&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=0596155972" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-* Book: [Lex & Yacc](https://www.amazon.com/lex-yacc-Doug-Brown/dp/1565920007/ref=sr_1_1?ie=UTF8&qid=1505766519&sr=8-1&keywords=lex+and+yacc): shows you how to use two Unix utilities, lex and yacc, in program development. These tools help programmers build compilers and interpreters, but they also have a wider range of applications.
+* Book: [Lex & Yacc](https://amzn.to/2ssI5qE): shows you how to use two Unix utilities, lex and yacc, in program development. These tools help programmers build compilers and interpreters, but they also have a wider range of applications.
 
-    <img src="http://ecx.images-amazon.com/images/I/510OFPELhPL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+    <a href="https://www.amazon.com/lex-yacc-Doug-Brown/dp/1565920007/ref=as_li_ss_il?ie=UTF8&qid=1505766519&sr=8-1&keywords=lex+and+yacc&linkCode=li3&tag=mynn11481-20&linkId=a3038a1a661bbea9395d539c22c14df7" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1565920007&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1565920007" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### [Kaitai Struct](http://kaitai.io/#quick-start) 
 
@@ -119,42 +119,42 @@ Both are command-line interface programs that can be used independently or toget
     
 * Book:
 
-    * [Sed & Awk](https://www.amazon.com/sed-awk-Dale-Dougherty/dp/1565922255/ref=sr_1_2?ie=UTF8&qid=1508814582&sr=8-2&keywords=sed)
+    * [Sed & Awk](https://amzn.to/2JoLWPb)
         
-        <img src="http://ecx.images-amazon.com/images/I/51zGTApa8%2BL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+        <a href="https://www.amazon.com/sed-awk-Dale-Dougherty/dp/1565922255/ref=as_li_ss_il?ie=UTF8&qid=1508814582&sr=8-2&keywords=sed&linkCode=li3&tag=mynn11481-20&linkId=2ef4692b88007297cb76113e8828f0b4" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1565922255&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1565922255" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
         
-    * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X/ref=sr_1_4?ie=UTF8&qid=1508814604&sr=8-4&keywords=awk)
+    * [The AWK Programming Language](https://amzn.to/2J59Qjv)
 
-        <img src="http://ecx.images-amazon.com/images/I/41WxQ-gPjWL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+        <a href="https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X/ref=as_li_ss_il?s=books&ie=UTF8&qid=1527984736&sr=1-1&keywords=awk+programming+language&dpID=41WxQ-gPjWL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch&linkCode=li3&tag=mynn11481-20&linkId=91d1fed07f2bfe973ce3be90d84ff206" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=020107981X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=020107981X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-    * [Effective awk Programming](https://www.amazon.com/Effective-awk-Programming-Universal-Processing-ebook/dp/B00U8232XM/ref=sr_1_1?ie=UTF8&qid=1508814604&sr=8-1&keywords=awk)
+    * [Effective awk Programming](https://amzn.to/2kKFjcg)
 
-        <img src="http://ecx.images-amazon.com/images/I/51x1OBaPbVL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+        <a href="https://www.amazon.com/Effective-awk-Programming-Universal-Processing/dp/1491904615/ref=as_li_ss_il?s=books&ie=UTF8&qid=1527984931&sr=1-1&keywords=effective+awk+programming+language&linkCode=li3&tag=mynn11481-20&linkId=2110bc834ad5c67b30857d3597a3f8fe" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1491904615&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1491904615" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
         
 # More Resources
 
 # Books
 
-### **[DSL Engineering](https://www.amazon.com/DSL-Engineering-Designing-Implementing-Domain-Specific/dp/1481218581/ref=sr_1_3?ie=UTF8&qid=1505967419&sr=8-3&keywords=domain+specific+languages)**
+### **[DSL Engineering](https://amzn.to/2HfyF6z)**
 
 *Designing, Implementing and Using Domain-Specific Languages*
 
-<img src="http://ecx.images-amazon.com/images/I/415XWbrmA8L._SY344_BO1,204,203,200_.jpg" width="200px"/>
+<a href="https://www.amazon.com/DSL-Engineering-Designing-Implementing-Domain-Specific/dp/1481218581/ref=as_li_ss_il?ie=UTF8&qid=1505967419&sr=8-3&keywords=domain+specific+languages&linkCode=li3&tag=mynn11481-20&linkId=5eeaee127a3c85ae1922734c300464a2" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1481218581&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=1481218581" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The definitive resource on domain-specific languages: based on years of real-world experience, relying on modern language workbenches and full of examples. Domain-Specific Languages are programming languages specialized for a particular application domain.
 
 
-### **[Language Implementation Patterns](https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=la_B001JS3O0U_1_1?s=books&ie=UTF8&qid=1503464537&sr=1-1)**
+### **[Language Implementation Patterns](https://amzn.to/2xCBS0z)**
 
 *Create Your Own Domain-Specific and General Programming Languages*
 
-<img src="http://ecx.images-amazon.com/images/I/81fc0FiuhtL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+<a href="https://www.amazon.com/Language-Implementation-Patterns-Domain-Specific-Programming/dp/193435645X/ref=as_li_ss_il?s=books&ie=UTF8&qid=1527985098&sr=1-1&keywords=Language+Implementation+Patterns&dpID=51QDoAv%252BFgL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch&linkCode=li3&tag=mynn11481-20&linkId=74fe9628b485dfa8ab1e36bd67e33e09" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=193435645X&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=193435645X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Written by the author of ANTLR, and it is also the tool used in the book, but the general concepts apply regardless of what you use.
 
-### **[Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/)** 
+### **[Compilers: Principles, Techniques, and Tools](https://amzn.to/2J8cipq)** 
 
-<img src="http://ecx.images-amazon.com/images/I/51Bug87tM%2BL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+<a href="https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811//ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=mynn11481-20&linkId=9793c66f2ad6b1f2e740b235c955ac8d" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321486811&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mynn11481-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=mynn11481-20&l=li3&o=1&a=0321486811" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 A classic compiler book that is known to professors, students, and developers worldwide as the "Dragon Book"
 
